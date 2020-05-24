@@ -1,0 +1,26 @@
+{
+  "name": "looplap",
+  "version": "1.0.0",
+  "description": "Workflow\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "manik",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "font-awesome": "^4.7.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp.spritesmith": "^6.11.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-debug": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "jquery": "^3.2.1"
+  }
+}
